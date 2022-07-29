@@ -1,0 +1,6 @@
+Spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ecommersdb
+    username: root
+    password: 1234
+
